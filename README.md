@@ -1,5 +1,5 @@
 # myfirstgitproject
 first project repository
-<br>author- Saurabh More 
+<br>author- Saurabh More owner 
 
 
